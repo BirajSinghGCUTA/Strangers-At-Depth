@@ -127,10 +127,10 @@ Please clone the repo and refer to these documents for further informations:
 ### Installation
 
 1. You need to export your application in Unity for Android platform – File/Build Settings… If you do not check “Export project” checkbox you will have “Build” button instead of “Export”.
-2.Click “Export”.
-3.Start Android Studio. Make sure that you already have everything set up – Android SDK and JAVA_HOME variable.
-4.In Android Studio choose “Open an existing Android Studio project” then navigate to the just exported project folder.
-5.Shift+10 or Run, choose Emulator (you can also choose your Device).
+2. Click “Export”.
+3. Start Android Studio. Make sure that you already have everything set up – Android SDK and JAVA_HOME variable.
+4. In Android Studio choose “Open an existing Android Studio project” then navigate to the just exported project folder.
+5. Shift+10 or Run, choose Emulator (you can also choose your Device).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -195,13 +195,13 @@ Project Link: [https://github.com/BirajSinghGCUTA/C-Heap](https://github.com/Bir
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-# PROF. Dr. Bharam Khalili
-# Team 12:
-## Antonio Yep
-## Biraj G C
-## Gerald Kimeu
-## Samuel Terwilliger
-## Henry Tran
+### PROF. Dr. Bharam Khalili
+### Team 12:
+#### Antonio Yep
+#### Biraj G C
+#### Gerald Kimeu
+#### Samuel Terwilliger
+#### Henry Tran
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
