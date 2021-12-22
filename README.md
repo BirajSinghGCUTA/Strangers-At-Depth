@@ -111,65 +111,35 @@ Stranger At Depth {SAD} is a fun mobile Android 2-D multiplayer battle royale pl
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This library has been tested in a Linux OS, I recommend using Linux(RedHat or Ubuntu) while using this program. 
+Please clone the repo and refer to these documents for further informations:
+1. [Software Requirement Analysis](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/CSE%203310%20SRA%20FINAL.doc)
+2. [Test Plan](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/CSE%203310%20Test%20Plan%20FINAL.doc)
+3. [User Manual](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/User%20Manual.docx)
+
 
 ### Prerequisites
 
-To run C++ or C, first install gcc compilers 
-* buid-essential
-  ```sh
-  sudo apt install build-essential
-  ```
-* install manpage 
-  ```sh
-  sudo apt-get install manpages-dev
-  ```
+1. Unity(Latest Version is prefered)
+2. Andorid Emulator using android studio.
+3. OS should be capapble of running Unity and Android.
+
 
 ### Installation
 
-The code compiles into four shared libraries and four test programs.  To build the code, change to your top level assignment directory and type: 
+1. You need to export your application in Unity for Android platform – File/Build Settings… If you do not check “Export project” checkbox you will have “Build” button instead of “Export”.
+2.Click “Export”.
+3.Start Android Studio. Make sure that you already have everything set up – Android SDK and JAVA_HOME variable.
+4.In Android Studio choose “Open an existing Android Studio project” then navigate to the just exported project folder.
+5.Shift+10 or Run, choose Emulator (you can also choose your Device).
 
-1. use make file to build
-   ```sh
-   make
-   ```
-2. Once you have the library, you can use it to override the existing malloc by using LD_PRELOAD: 
-   ```sh
-   $ env LD_PRELOAD=lib/libmalloc-ff.so tests/test1 
-   ```
-3. To run the other heap management schemes replace libmalloc-ff.so with the appropriate library: 
-   ```sh
-   Best-Fit:  libmalloc-bf.so  
-   First-Fit: libmalloc-ff.so   
-   Next-Fit:  libmalloc-nf.so  
-   Worst-Fit: libmalloc-wf.so 
-   ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage Examples
-
-1. To use malloc
- ```c
-    int *p1 = malloc(4*sizeof(int));
-   ```
-2. To use calloc
- ```c
-    int *p1 = calloc(4, sizeof(int));
-   ```
-3. To use relloc
- ```c
-    int *p1 = realloc(7*sizeof(int));
-   ```
-4. To use free
- ```c
-    malloc(p1);
-   ```
-
  
-Please refer to the [Documentation](https://example.com)_
+Please refer to the [Documentation](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/User%20Manual.docx)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -178,11 +148,7 @@ Please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Implement splitting and coalescing of free blocks. If two free blocks are adjacent then combine them. If a free block is larger           than the requested size then split the block into two. 
-- [x] Implement three additional heap management strategies: Next Fit, Worst Fit, Best Fit, First Fit. 
-- [x] Implement realloc and calloc. 
-- [X] Allow realloc to decrease the allocation size.
-- [X] Make the memory blocks doubly linked and use it for fast memory search and free
+Please refer to the [Documentation](https://github.com/BirajSinghGCUTA/Strangers-At-Depth/blob/main/CSE%203310%20SRA%20FINAL.doc)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -229,7 +195,13 @@ Project Link: [https://github.com/BirajSinghGCUTA/C-Heap](https://github.com/Bir
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-# PROF. Trevor J. Bakker
+# PROF. Dr. Bharam Khalili
+# Team 12:
+## Antonio Yep
+## Biraj G C
+## Gerald Kimeu
+## Samuel Terwilliger
+## Henry Tran
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
