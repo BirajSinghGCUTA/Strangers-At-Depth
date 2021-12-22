@@ -73,6 +73,28 @@
 
 Stranger At Depth {SAD} is a fun mobile Android 2-D multiplayer battle royale platformer where players find treasure, gold coins called Krakens, hidden in the depths of the deep ocean while competing against other players online, but only one player’s loot will see the sunlight of day.
 
+❖Registration Login: New users will need to sign up to create a new account with a username and password. Returning users must authenticate using their username and password to log in.
+
+❖Home Screen: Users will be greeted with a main screen that includes the appropriately themed project title, animated background, background music, and different menu options that will allow the user to navigate the application.
+
+❖Advertisements: Whenever the user is idle a closable pop-up ad will appear with the option to watch a video advertisement to earn game currency. The video option will appear randomly.
+
+❖Play: Users will make and host a lobby for others to join.
+
+❖Battle Royale: Players will load into the game, use items to fight other players, steal/collect gold coins called Krakens, avoid obstacles, and survive as the screen gradually scrolls up and eliminates players. There can only be one winner, if you are eliminated you will lose the Krakens you collected that game.
+
+❖Player: Players have health and their number of collected Krakens. Players will also be able to dodge obstacles by moving, use unique items, and use a melee attack to steal another player’s Krakens.
+
+❖Profile: Users can view their player information including wins, Krakens, achievements, and leaderboard rank. Here they can also change their profile picture, cosmetic accessories/skins, and claim a daily reward of Krakens for logging in.
+
+❖Leaderboards: View your rank compared to other players based on total Krakens, total wins, or games played. Find other player’s rank.
+
+❖Store: Use Krakens to purchase cosmetic accessories/skins.
+
+❖Settings: Users can change their username/password, gameplay settings, background music, etc.
+
+❖Termination: While playing a game, players have an option to quit the game or continue playing.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
