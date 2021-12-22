@@ -32,7 +32,7 @@
 <br />
 <div align="center">
     <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/logo.jpg" alt="Logo" width="150" height="80">
     </a>
     
   <p align="center"> <b> Online Multiplayer 2D Mobile Game</b> </p>
