@@ -186,7 +186,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Biraj Singh GC- [@birajsinghgc@gmail.com](birajsinghgc@gmail.com)
 
-Project Link: [https://github.com/BirajSinghGCUTA/C-Heap](https://github.com/BirajSinghGCUTA/C-Heap)
+Project Link: [https://github.com/BirajSinghGCUTA/Strangers-At-Depth](https://github.com/BirajSinghGCUTA/Strangers-At-Depth)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
